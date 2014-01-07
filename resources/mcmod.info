@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MMinerals",
+  "name": "More Minerals Mod",
+  "description": "It's WIP",
+  "version": "[WIP]",
+  "mcversion": "Minecraft ",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["TheKiwi5000"],
+  "credits": "TheKiwi5000",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
